@@ -10,8 +10,10 @@ Enjoy :)
 
 ```zip -e -r <DEST>.zip <SOURCE_DIR>```
 
-If your zip file is louder than 100MB you can upload it on github. Let see how 
-by pass that:
+Enter a passphrase for unzip it later.
+
+If your zip file is louder than 100MB you can't upload it on github. Let see how 
+by-pass that:
 
 We want to split our zip file in 50MB zip files (50 * 1024 * 1024 = 52428800 Bytes)
 
